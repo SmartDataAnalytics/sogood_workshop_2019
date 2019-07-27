@@ -1,0 +1,10 @@
+{
+  "\"a_isCitedBy_a\"": 1,
+  "\"a_isCitedBy_p\"": 7,
+  "\"authorOf\"": 2,
+  "\"belongsToDomain\"": 4,
+  "\"hasPaperIn\"": 6,
+  "\"isCoauthor\"": 0,
+  "\"isPublishedIn\"": 3,
+  "\"p_isCitedBy_p\"": 5
+}

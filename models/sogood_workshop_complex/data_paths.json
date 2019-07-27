@@ -1,0 +1,5 @@
+{
+  "training_file": "train.tsv",
+  "test_file": "test_cleaned.tsv",
+  "out_put_direc": "sogood_workshop"
+}

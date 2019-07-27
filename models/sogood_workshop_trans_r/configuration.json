@@ -1,0 +1,21 @@
+{
+  "training_set_path": "train.tsv",
+  "execution_mode": "HPO_mode",
+  "kg_embedding_model_name": "TransR",
+  "embedding_dim": 100,
+  "relation_embedding_dim": 100,
+  "margin_loss": 8.0,
+  "scoring_function": 1,
+  "learning_rate": 0.01,
+  "batch_size": 32,
+  "num_epochs": 1000,
+  "maximum_number_of_hpo_iters": 5,
+  "test_set_path": "test_cleaned.tsv",
+  "filter_negative_triples": true,
+  "random_seed": 2,
+  "preferred_device": "gpu",
+  "output_direc": "sogood_workshop",
+  "pykeen-version": "0.0.26-dev",
+  "num_entities": 13487,
+  "num_relations": 8
+}

@@ -1,0 +1,9 @@
+{
+  "kge_model_name": "ComplEx",
+  "embedding_dim": 200,
+  "learning_rate": 0.01,
+  "batch_size": 128,
+  "num_epochs": 400,
+  "num_negatives_per_positive": 10,
+  "filter_negative_triples": true
+}

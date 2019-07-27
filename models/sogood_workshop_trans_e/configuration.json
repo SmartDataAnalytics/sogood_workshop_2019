@@ -1,0 +1,20 @@
+{
+  "training_set_path": "train.tsv",
+  "execution_mode": "Training_mode",
+  "kg_embedding_model_name": "TransE",
+  "embedding_dim": 100,
+  "margin_loss": 10.0,
+  "scoring_function": 1,
+  "normalization_of_entities": 2,
+  "learning_rate": 0.01,
+  "batch_size": 32,
+  "num_epochs": 600,
+  "test_set_path": "test_cleaned.tsv",
+  "filter_negative_triples": true,
+  "random_seed": 2,
+  "preferred_device": "gpu",
+  "output_direc": "sogood_workshop",
+  "pykeen-version": "0.0.26-dev",
+  "num_entities": 13487,
+  "num_relations": 8
+}
