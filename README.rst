@@ -1,4 +1,5 @@
-# Improving Access to Science for Social Good
+Improving Access to Science for Social Good
+===========================================
 
 This repository contains the experimental artifacts for the experiments reported in our paper entitled
 "Improving Access to Science for Social Good". In particular, we uploaded the knowledge graph (KG) (data directory)
